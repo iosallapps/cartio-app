@@ -17,3 +17,8 @@ xcuserdata/
 
 # Claude local
 .claude/settings.local.json
+
+# Notes and scratch docs stay out of the repo
+*.md
+# Resolved dependency graph: commit only on a deliberate dependency update
+Package.resolved
